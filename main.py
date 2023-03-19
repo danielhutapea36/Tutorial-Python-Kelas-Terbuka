@@ -205,3 +205,8 @@ print(x,"*",z,"/",y,"-",z,'+',x,'//',y,"%",x,"hasilnya adalah = ",hasil)
  - perkalian, pembagian, modulus, floor division
  - penjumlahan, pengurangan
  catatan: tanda kurung akan diproses paling pertama"""
+
+#Latihan Konversi Satuan temperature
+print("/n PROGRAM KONVERSI TEMPERATURE/n")
+celcius = float(input("Masukkan suhu dalam celcius"))
+print("suhu dalam celcius", celcius, "celcius")
